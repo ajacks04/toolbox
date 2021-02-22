@@ -13,5 +13,5 @@ setup(name='toolbox',
       test_suite='tests',
       # include_package_data: to install data from MANIFEST.in
       include_package_data=True,
-      scripts=['scripts/toolbox-run','scripts/toolbox-weather'],
+      scripts=['scripts/toolbox-run','scripts/toolbox-weather','scripts/toolbox-distance'],
       zip_safe=False)
