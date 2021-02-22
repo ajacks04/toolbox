@@ -1,1 +1,1 @@
-web: pip install . -U && toolbox-run
+web: pip install . -U && ajacks04-toolbox-run
